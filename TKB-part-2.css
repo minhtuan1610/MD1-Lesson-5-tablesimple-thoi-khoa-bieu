@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    Color: blue;
+}
+
+div table {
+    margin-left: auto;
+    margin-right: auto;
+    outline-style: none;
+    color: blue;
+
+}
+
+.table2 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 650px;
+    font-family: "Times New Roman";
+}
+
+thead {
+    background-color: yellow;
+}
+
+tbody tr th {
+    background-color: orange;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px 8px 8px 8px;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: left;
+}
+
+#th1 {
+    background-color: white;
+}
+
+.right {
+    text-align: right;
+}
+
+.info, .left, .right {
+    border-style: none;
+}
